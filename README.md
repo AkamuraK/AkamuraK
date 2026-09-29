@@ -1,16 +1,77 @@
-## Hi there 👋
+# cyberk1d.exe / Khidr
 
-<!--
-**asyafeeq/asyafeeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gojo Satoru](https://media.tenor.com/2Bntg9UpXmsAAAAM/gojo-jujutsu-kaisen.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Overview
+
+**cyberk1d.exe** — Full-stack engineer. Systems thinker. Code obsessive.
+
+I architect solutions. I exploit complexity. I build products that matter.
+
+> *"Power can be anything. The ability to accomplish goals."*
+
+---
+
+## Core Competencies
+
+```
+LANGUAGES        TypeScript | JavaScript | Python | SQL
+FRONTEND         React | Next.js | Tailwind CSS | Web APIs
+BACKEND          Node.js | Express | REST/GraphQL | Databases
+DEVOPS           Git | Linux | CI/CD | Docker
+METHODOLOGY      Clean Code | System Design | Performance Optimization
+```
+
+---
+
+## Philosophy
+
+- **Minimalist Execution** — No bloat. Precision engineering.
+- **Relentless Learning** — The strongest coders never stop upgrading.
+- **Production Mindset** — Every line must earn its place.
+- **Async Everywhere** — Speed is a feature.
+
+---
+
+## Terminal Output
+
+```bash
+$ whoami
+cyberk1d.exe/Khidr
+
+$ git log --oneline -10
+[building next-level systems]
+
+$ top | grep focused
+CPU: 100% | Memory: infinite | Status: LOCKED IN
+
+$ fortune
+"Strength isn't just power. It's the will to keep fighting."
+```
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyafeeq&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=true)
+
+---
+
+![Yuji Power](https://media.tenor.com/WbXI1q8Sk38AAAAM/jujutsu-kaisen-punch.gif)
+
+---
+
+## Next Move
+
+- 🔧 Building scalable systems
+- 📈 Shipping features users love
+- 🧠 Exploring distributed systems
+- ⚡ Optimizing for speed & elegance
+
+---
+
+**Let's build something unstoppable.**
+
+`cyberk1d.exe`
