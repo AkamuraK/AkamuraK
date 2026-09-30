@@ -1,6 +1,5 @@
 # cyberk1d / Khidr
 ## Overview
-
 Systems thinker. Code obsessive.
 
 I architect solutions. I exploit complexity. I build products that matter.
