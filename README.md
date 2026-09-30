@@ -1,7 +1,7 @@
-# cyberk1d.exe / Khidr
+# cyberk1d / Khidr
 ## Overview
 
-**cyberk1d.exe** — Full-stack engineer. Systems thinker. Code obsessive.
+Systems thinker. Code obsessive.
 
 I architect solutions. I exploit complexity. I build products that matter.
 
@@ -33,9 +33,6 @@ METHODOLOGY      Clean Code | System Design | Performance Optimization
 ## Terminal Output
 
 ```bash
-$ whoami
-cyberk1d.exe/Khidr
-
 $ git log --oneline -10
 [building next-level systems]
 
@@ -58,4 +55,3 @@ $ fortune
 
 **Let's build something unstoppable.**
 
-`cyberk1d.exe`
