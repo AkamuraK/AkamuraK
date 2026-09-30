@@ -1,9 +1,4 @@
 # cyberk1d.exe / Khidr
-
-![Gojo Satoru](https://media.tenor.com/2Bntg9UpXmsAAAAM/gojo-jujutsu-kaisen.gif)
-
----
-
 ## Overview
 
 **cyberk1d.exe** — Full-stack engineer. Systems thinker. Code obsessive.
@@ -50,17 +45,6 @@ CPU: 100% | Memory: infinite | Status: LOCKED IN
 $ fortune
 "Strength isn't just power. It's the will to keep fighting."
 ```
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyafeeq&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=true)
-
----
-
-![Yuji Power](https://media.tenor.com/WbXI1q8Sk38AAAAM/jujutsu-kaisen-punch.gif)
-
 ---
 
 ## Next Move
