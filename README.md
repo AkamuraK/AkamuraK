@@ -1,4 +1,3 @@
-# cyberk1d / Khidr
 ## Overview
 
 Systems thinker. Code obsessive.
